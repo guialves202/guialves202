@@ -13,16 +13,29 @@
   <h1>Olá! Eu sou o guialves202 :D</h1>
 </div>
 
-
-
-
 <div align="center">
-  <a href="https://github.com/guialves202">
-    <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=guialves202&show_icons=true&bg_color=45,000f34,1a041b&hide_border=true&theme=midnight-purple&include_all_commits=true&count_private=true">
-    <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guialves202&layout=compact&langs_count=16&bg_color=45,000f34,1a041b&hide_border=true&theme=midnight-purple">
+  <img src="https://media.giphy.com/media/HN6GLlUsMvue652b2w/giphy.gif">
 </div>
 
-<div style="display: inline_block" align="center"><br>
+
+---
+
+### 👨‍💻 Sobre mim :
+
+Desenvolvedor Back-end <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"><br>
+Cursando Análise e Desenvolvimento de Sistemas <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExenBuMnlpbzR5b2xkZjNuMWltanJkbWhpdjdiMTI4dGRxN2Q4MTV6MiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/dBrXAuiJQpBTgFhHFH/giphy.gif" width="30">
+
+- :telescope: Trabalhando como Agente Técnico e Administrativo
+
+- :seedling: Estudando mais sobre Node.js
+
+- :zap: Desenvolvendo projetos no tempo livre
+
+---
+
+### :hammer_and_wrench: Linguagens e ferramentas :
+
+<div>
   <img align="center" alt="Gui-js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Gui-html" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-plain.svg">
   <img align="center" alt="Gui-css" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-plain.svg">
@@ -32,5 +45,13 @@
   <img align="center" alt="Gui-git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-plain.svg">
 </div>
 
-##
+---
+
+### :fire: Meus status :
+
+<div>
+  <img src="http://github-readme-streak-stats.herokuapp.com?user=guialves202&hide_border=true&theme=midnight-purple&include_all_commits=true&count_private=true"><br>
+  <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guialves202&layout=compact&langs_count=16&hide_border=true&theme=midnight-purple">
+</div>
+
 
