@@ -36,6 +36,7 @@ Cursando Análise e Desenvolvimento de Sistemas <img src="https://media.giphy.co
 ### :hammer_and_wrench: Linguagens e ferramentas :
 
 <div>
+  <img align="center" alt="Gui-ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="Gui-js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Gui-html" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-plain.svg">
   <img align="center" alt="Gui-css" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-plain.svg">
