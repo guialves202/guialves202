@@ -10,7 +10,7 @@
   <img src="https://komarev.com/ghpvc/?username=guialves202&style=for-the-badge&labelColor=002d9a&color=002d9a" alt=""/>
 </div>
 <div align="center">
-  <h1>Olá! Eu sou o guialves202 :D</h1>
+  <h1>Olá! Eu sou o gui :D</h1>
 </div>
 
 <div align="center">
