@@ -27,7 +27,7 @@ Cursando Análise e Desenvolvimento de Sistemas <img src="https://media.giphy.co
 
 - :telescope: Trabalhando como Agente Técnico e Administrativo
 
-- :seedling: Estudando mais sobre Node.js
+- :seedling: Estudando principalmente TypeScript, C# e DevOps
 
 - :zap: Desenvolvendo projetos no tempo livre
 
@@ -44,6 +44,10 @@ Cursando Análise e Desenvolvimento de Sistemas <img src="https://media.giphy.co
   <img align="center" alt="Gui-mysql" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-plain.svg">
   <img align="center" alt="Gui-mongo" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-plain.svg">
   <img align="center" alt="Gui-git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-plain.svg">
+  <img align="center" alt="Gui-csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-plain.svg">
+  <img align="center" alt="Gui-docker" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-plain.svg">
+  <img align="center" alt="Gui-react" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="Gui-dotnet" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dotnetcore/dotnetcore-original.svg">
 </div>
 
 ---
